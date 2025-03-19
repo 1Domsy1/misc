@@ -26,3 +26,7 @@
 /home/dom/Desktop/GIT/misc : git add :  (b'', b'')
 /home/dom/Desktop/GIT/misc : git commit : (b'[main 6f364ae] "test"\n 1 file changed, 4 insertions(+)\n', b'')
 /home/dom/Desktop/GIT/misc : git push : (b'', b'ssh: Could not resolve hostname github.com: Temporary failure in name resolution\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n')
+2025-03-19 19:28:51.441559
+/home/dom/Desktop/GIT/misc : git add :  (b'', b'')
+/home/dom/Desktop/GIT/misc : git commit : (b'[main e112ba8] "test"\n 1 file changed, 4 insertions(+)\n', b'')
+/home/dom/Desktop/GIT/misc : git push : (b'', b'ssh: Could not resolve hostname github.com: Temporary failure in name resolution\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n')
