@@ -1,5 +1,3 @@
-#proof
-
 {
 
 "editor.autoClosingBrackets": "never",
